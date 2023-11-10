@@ -1,0 +1,28 @@
+body {
+    background-image: url(Images/istockphoto-178895760-612x612.jpg);
+}
+
+
+
+.container {
+    height: 400px;
+    width: 500px;
+    border: 5px black solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+    background-color: lightskyblue;
+
+}
+
+.containerPosition {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.buttonColor {
+    background-color: navy;
+    color: whitesmoke;
+}
